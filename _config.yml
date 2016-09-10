@@ -272,6 +272,8 @@ google_analytics: UA-81925648-1
 # CNZZ count
 #cnzz_siteid:
 
+# Application Insight 
+application_insight: 8e640524-9fbe-4841-9916-51661b607c9f
 
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
